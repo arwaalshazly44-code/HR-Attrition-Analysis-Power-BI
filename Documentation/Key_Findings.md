@@ -14,7 +14,6 @@ An interactive landing page introducing the dashboard and providing navigation t
 - Employees Stayed: 1,233
 - Employees Left: 237
 
-![Welcome Page](./Screenshots/Welcom.png)
 ### 2. Overview
 
 Provides a high-level view of employee attrition, retention, department performance, and overtime patterns.
@@ -27,7 +26,6 @@ Provides a high-level view of employee attrition, retention, department performa
 - Laboratory Technicians had the highest number of employee exits among job roles (62).
 - Overtime distribution is examined across departments and attrition status.
 
-![Overview](./Screenshots/Overview.png)
 
 ### 3. Employee Analysis
 
@@ -42,7 +40,6 @@ Explores the demographic and professional characteristics of the workforce.
 - Male employees represent 60% of the workforce, while female employees represent 40%.
 - Workforce distribution is analyzed by age group, education field, department, gender, and job role.
 
-![Employee Analysis](./Screenshots/Employee%20Analysis.png)
 
 ### 4. Attrition Drivers
 
@@ -55,7 +52,6 @@ Explores the relationship between employee attrition and several workplace facto
 - The 18–24 age group recorded the highest attrition rate (39.2%).
 - Overtime patterns are analyzed in relation to employee attrition.
 
-![Attrition Drivers](./Screenshots/Attrition%20Driver.png)
 
 ### 5. Outliers Analysis
 
@@ -65,7 +61,6 @@ The 1.5 × IQR rule was applied to determine the lower and upper bounds for iden
 
 This analysis helps investigate unusual employee income values and examine records that may require further attention.
 
-![Outliers Analysis](./Screenshots/outliers.png)
 
 ## Tools & Technologies
 
