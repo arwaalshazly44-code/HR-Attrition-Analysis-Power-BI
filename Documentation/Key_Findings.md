@@ -15,7 +15,6 @@ An interactive landing page introducing the dashboard and providing navigation t
 - Employees Left: 237
 
 ![Welcome Page](./Screenshots/Welcom.png)
-
 ### 2. Overview
 
 Provides a high-level view of employee attrition, retention, department performance, and overtime patterns.
